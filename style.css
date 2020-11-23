@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+}
+.nombre{
+    color: crimson;
+}
+#identificador{
+    color: darkgreen;
+}
+[nelson="murillo"]{
+    color: indigo;
+}
+[nelson="murillo"]{
+    color: rgb(3, 112, 30);
+}
